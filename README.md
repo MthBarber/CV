@@ -24,7 +24,7 @@ the Makers bootcamp to help me prepare.
 ## Work Experience
 
 Di9ital - Trainee Web Developer (Feb 2022 - Sept 2022) 
-I am currently doing an internship at Di9ital, where I have been developing new skills and receiving mentorship. 
+I was previously doing an internship at Di9ital, where I have been developing new skills and receiving mentorship. 
 I have been working on creating my first fullstack applications with the following tools:
 - Javascript
 - React
@@ -34,8 +34,7 @@ I have been working on creating my first fullstack applications with the followi
 - Tailwind CSS
 
 
-MD Group (2014-September 2021)
-Job Role: Contract Supervisor/Qualiﬁed Supervisor
+MD - Contract Supervisor/Qualiﬁed Supervisor (2014-September 2021)
 
 - Conducting job interviews for potential employees within the business and inductions.
 - Liaise directly with clients regarding work and issues.
@@ -51,40 +50,18 @@ Job Role: Contract Supervisor/Qualiﬁed Supervisor
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
 
--STAR
--What was the situation/task? (ST)
+In my previous job we had an issue with people having to return to jobs as they had either not fixed something that needed repairing or failed to complete the relevant paperwork which led to high costs 
+and affecting profit, so I wrote a step by step manual that was distributed to all relevant workers that explicitly explained every step required and all results and paperwork that would be required
+depending on the work type. This led to a significant decrease in recalls for our work and allowed more jobs to be completed as a result.
 
--How was the skill used?
-
--What did you do? (action)
-
--What was the result?
-
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 
 #### Makers Academy (07/10/22 - 07/02/23)
 
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
+- Frequently used pairing in order to problem solve effeciently, requiring teamwork and communication.
+- I have used the following tools:
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
@@ -92,18 +69,18 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Bath Spa (09/21 - 02/22)
 
-- Creative computing.
+- Creative Computing.
 - Using prototyping tools.
 - Figma, Adobe.
 - Creating websites.
 - HTML, CSS, JavaScript.
 
-#### P&R Hurt (09/18 - 02/19)
+#### P&R Hurt (09/17 - 02/18)
 
 - NVQ Level 4 Design and verification of electrical installations.
 - Using schematics to build and calculate requirements for electrical installations.
 
-#### Online (2016)
+#### AXELOS (2015 - 2016)
 
 - PRINCE2 Foundation and Practitioner.
 - Qualification in project management using PRINCE2 methodologies.
@@ -113,6 +90,4 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - NVQ Level 3 (2391) Certificate in inspection, testing and certification of electrical installations.
 - Verifying that electrical installations are safe to be put into service.
 
-## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
