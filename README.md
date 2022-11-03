@@ -24,6 +24,7 @@ the Makers bootcamp to help me prepare.
 ## Work Experience
 
 Di9ital - Trainee Web Developer (Feb 2022 - Sept 2022) 
+
 I was previously doing an internship at Di9ital, where I have been developing new skills and receiving mentorship. 
 I have been working on creating my first fullstack applications with the following tools:
 - Javascript
